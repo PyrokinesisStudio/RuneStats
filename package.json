@@ -1,0 +1,19 @@
+{
+  "name": "runestats",
+  "version": "1.0.0",
+  "description": "Track your RuneScape gains with interactive graphs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unlucky4ever/RuneStats.git"
+  },
+  "author": "Witty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unlucky4ever/RuneStats/issues"
+  },
+  "homepage": "https://github.com/unlucky4ever/RuneStats#readme"
+}
